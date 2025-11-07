@@ -8,7 +8,8 @@ import java.util.List;
 import java.util.Set;
 import java.util.Stack;
 
-
+import br.edu.icev.aed.forense.*;
+import java.util.*;
 
 public interface ResolucaoForence{
     public static Set<String> encontrarSessoesInvalidas(String arquivo_LogsCsv) throws IOException{
@@ -65,3 +66,4 @@ public interface ResolucaoForence{
         }
     }
 }
+
