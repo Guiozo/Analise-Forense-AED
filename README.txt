@@ -1,1 +1,1 @@
-src.br.edu.icev.aed.forense.SolucaoForense
+br.edu.icev.aed.forense.SolucaoForense
